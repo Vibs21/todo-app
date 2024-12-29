@@ -1,6 +1,6 @@
-##To-Do App
+## To-Do App
 
-## ✨ Key Features  
+## Key Features  
 
 - **UI Components For**
   - TodoList
